@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Ross Mackenzie. All rights reserved.
 import { NextResponse } from "next/server";
 
 export const revalidate = 60;

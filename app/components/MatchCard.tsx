@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Ross Mackenzie. All rights reserved.
 "use client";
 
 import { Match } from "@/types/match";
